@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+#header{
+    background-color: antiquewhite;
+    height: 50px;
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    /*position: absolute;*/
+
+}
+#head-link{
+    background-color:blueviolet;
+    height: 20px;
+    width: 100%;
+}
+#left{
+    background-color: aqua;
+    height: 500px;
+    width: 15%;
+    /*margin: 10px 10px 10px 0;*/
+    margin: 10px 0px 10px 0px;
+    float: left;
+}
+#main{
+    background-color: aliceblue;
+    height: 500px;
+    width: 65%;
+    /*margin: 10px 10px 10px 0;*/
+    margin: 10px 0px 10px 0px;
+    float: left;
+}
+#right{
+    background-color: aqua;
+    height: 500px;
+    width: 20%;
+    /*margin: 10px 0px 10px 0;*/
+    margin: 10px 0px 10px 0px;
+    float: left;
+}
+#footer{
+    background-color: brown;
+    height: 50px;
+    width: 100%;
+    clear: both;
+    margin: 10px 0px 10px 0px;
+}
